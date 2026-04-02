@@ -1,17 +1,24 @@
-# windows-maintenance-toolkit
+# ⚡ IT Automation Toolkit
 
+Scripts para automação de tarefas de suporte técnico.
 
-Ferramenta de manutenção para ambientes Windows desenvolvida em PowerShell.
+---
 
-## Sobre o Projeto
+## 🎯 Objetivo
 
-Script criado para automatizar tarefas comuns de suporte técnico N1/N2, incluindo limpeza de arquivos temporários, renovação de IP e verificação de disco.
+Reduzir tarefas repetitivas e melhorar produtividade no suporte.
 
-## Tecnologias Utilizadas
+---
 
-- PowerShell
-- Windows CLI
+## 📋 Scripts
 
-## Autor
+- Limpeza de arquivos
+- Diagnóstico básico
+- Organização de arquivos
+- Coleta de informações do sistema
 
-Johnata Rodrigues
+---
+
+## 🛠️ Tecnologias
+
+Python | PowerShell
